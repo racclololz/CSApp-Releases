@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.0.0",
+  "latestVersion": "1.9.7.0",
   "releaseDate": "2026-02-23",
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/racclololz/CSApp-Releases/releases/download/v1.9.7.0/CardScannerApp_1.9.7.0_x64.msix",
   "releaseNotesUrl": "",
   "minimumVersion": "1.0.0.0",
-  "updateAvailable": false,
+  "updateAvailable": true,
   "message": "A new version is available!"
 }
